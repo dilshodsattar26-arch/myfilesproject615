@@ -1,0 +1,8 @@
+{
+    "name": "dbmanager-service",
+    "version": "1.0.615",
+    "private": false,
+    "environment": "production",
+    "build_id": 172,
+    "allow_public_access": true
+}
